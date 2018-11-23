@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Tab2 Exercise</string>
+
+    <!-- FirstActivity String Collection -->
+    <string name="welcomeMessage">TextView</string>
+    <string name="idText">아이디</string>
+    <string name="passwordText">TextView</string>
+    <string name="idText2">TextView</string>
+    <string name="textView2">비밀번호</string>
+
+    <!-- LoginActivity String Collection -->
+    <string name="loginIdText">ID</string>
+    <string name="nologin">로그인없이 돌아다녀보기</string>
+    <string name="loginButton">로그인</string>
+    <string name="loginPasswordText">password</string>
+    <string name="loginRegisterButton">회원가입</string>
+    <string name="text">로그인</string>
+
+    <!-- MainActivity String Collection -->
+    <string name="btn_first">오늘 하루</string>
+    <string name="btn_second">위치</string>
+    <string name="btn_third">게시판</string>
+
+    <!-- RegisterActivity String Collection -->
+    <string name="address">address</string>
+    <string name="id">id</string>
+    <string name="name">name</string>
+    <string name="number">number</string>
+    <string name="email">email</string>
+    <string name="auth">auth</string>
+    <string name="birth">birth</string>
+    <string name="password">password</string>
+    <string name="cname">cname</string>
+    <string name="registerButton">회원가입</string>
+    <string name="confirmButton">확인</string>
+    <string name="authButton">인증</string>
+    <string name="authCanButton">취소</string>
+</resources>

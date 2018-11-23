@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="Yellow">#fd3</color>
+    <color name="DarkGray">#444</color>
+
+    <!-- 벽돌.png -->
+    <color name="Beige">#B2987F</color>
+
+    <!-- 로고.png -->
+    <color name="LightAshBrown">#C2B3B3</color>
+    <color name="DarkAshBrown">#362727</color>
+    <color name="BrightAshBrown">#FBECEC</color>
+
+    <!-- 실제 사용할 색상 -->
+    <color name="LoginActivity_Background">#FAF0E6</color>
+    <color name="ViewPager_Tab_Button_Background">#362727</color>
+    <color name="ViewPager_Tab_Button_Text">#C2B3B3</color>
+</resources>
